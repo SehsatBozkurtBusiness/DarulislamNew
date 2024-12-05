@@ -1,0 +1,192 @@
+{
+  "categories": [
+    {
+      "id": "prophets",
+      "title": "Prophets",
+      "description": "The noble messengers of Allah who guided humanity",
+      "image": "https://images.unsplash.com/photo-1564769625392-651b89c75a77?auto=format&fit=crop&q=80&w=1200"
+    },
+    {
+      "id": "companions",
+      "title": "Companions",
+      "description": "The blessed companions (Sahaba) of Prophet Muhammad ﷺ",
+      "image": "https://images.unsplash.com/photo-1591456983933-0c126b90ffd2?auto=format&fit=crop&q=80&w=1200"
+    },
+    {
+      "id": "scholars",
+      "title": "Scholars",
+      "description": "The great Islamic scholars who preserved and explained the religion",
+      "image": "https://images.unsplash.com/photo-1583482183021-daa0eda21b62?auto=format&fit=crop&q=80&w=1200"
+    }
+  ],
+  "figures": {
+    "prophets": [
+      {
+        "id": "adam",
+        "name": "Adam",
+        "arabicName": "آدم",
+        "title": "First Prophet of Allah",
+        "period": "Beginning of Humanity",
+        "description": "The first human being and prophet, created directly by Allah. Father of humanity.",
+        "significance": "First prophet to receive divine revelation and teach monotheism to humanity.",
+        "image": "https://images.unsplash.com/photo-1584286595398-a59511e0649f?auto=format&fit=crop&q=80&w=800",
+        "category": "prophet"
+      },
+      {
+        "id": "nuh",
+        "name": "Noah",
+        "arabicName": "نوح",
+        "title": "Prophet of the Flood",
+        "period": "c. 3000 BCE",
+        "description": "Built the Ark under divine command to save believers and animals from the great flood.",
+        "significance": "Demonstrated unwavering faith through centuries of persecution.",
+        "image": "https://images.unsplash.com/photo-1590076215667-875d4ef2d7de?auto=format&fit=crop&q=80&w=800",
+        "category": "prophet"
+      },
+      {
+        "id": "ibrahim",
+        "name": "Abraham",
+        "arabicName": "إبراهيم",
+        "title": "Friend of Allah (Khalilullah)",
+        "period": "c. 2000 BCE",
+        "description": "The patriarch of monotheistic religions, known for his absolute submission to Allah.",
+        "significance": "Built the Kaaba and established the rituals of Hajj.",
+        "image": "https://images.unsplash.com/photo-1564769625392-651b89c75a77?auto=format&fit=crop&q=80&w=800",
+        "category": "prophet"
+      },
+      {
+        "id": "musa",
+        "name": "Moses",
+        "arabicName": "موسى",
+        "title": "Speaker with Allah (Kalimullah)",
+        "period": "c. 1400 BCE",
+        "description": "Led the Israelites out of Egypt and received the Torah on Mount Sinai.",
+        "significance": "Received divine scripture and led his people to freedom.",
+        "image": "https://images.unsplash.com/photo-1583482183021-daa0eda21b62?auto=format&fit=crop&q=80&w=800",
+        "category": "prophet"
+      },
+      {
+        "id": "isa",
+        "name": "Jesus",
+        "arabicName": "عيسى",
+        "title": "Spirit of Allah (Ruhullah)",
+        "period": "c. 0-33 CE",
+        "description": "Born miraculously to Virgin Mary, performed miracles by Allah's permission.",
+        "significance": "Taught pure monotheism and was raised to heaven.",
+        "image": "https://images.unsplash.com/photo-1591456983933-0c126b90ffd2?auto=format&fit=crop&q=80&w=800",
+        "category": "prophet"
+      },
+      {
+        "id": "muhammad",
+        "name": "Muhammad",
+        "arabicName": "محمد",
+        "title": "The Final Prophet ﷺ",
+        "period": "570-632 CE",
+        "description": "The final messenger of Allah, who received and transmitted the Holy Quran.",
+        "significance": "Completed and perfected the message of Islam for all humanity.",
+        "image": "https://images.unsplash.com/photo-1564769625392-651b89c75a77?auto=format&fit=crop&q=80&w=800",
+        "category": "prophet"
+      }
+    ],
+    "companions": [
+      {
+        "id": "abu-bakr",
+        "name": "Abu Bakr",
+        "arabicName": "أبو بكر الصديق",
+        "title": "As-Siddiq (The Truthful)",
+        "period": "573-634 CE",
+        "description": "First caliph of Islam and closest companion of Prophet Muhammad ﷺ.",
+        "significance": "First adult male to accept Islam and crucial supporter during early Islam.",
+        "image": "https://images.unsplash.com/photo-1591456983933-0c126b90ffd2?auto=format&fit=crop&q=80&w=800",
+        "category": "companion",
+        "relationship": "First Caliph, Father-in-law"
+      },
+      {
+        "id": "umar",
+        "name": "Umar ibn Al-Khattab",
+        "arabicName": "عمر بن الخطاب",
+        "title": "Al-Farooq (The Criterion)",
+        "period": "584-644 CE",
+        "description": "Second caliph of Islam, known for his justice and strength.",
+        "significance": "Expanded Islamic territory and established administrative systems.",
+        "image": "https://images.unsplash.com/photo-1583482183021-daa0eda21b62?auto=format&fit=crop&q=80&w=800",
+        "category": "companion",
+        "relationship": "Second Caliph, Father-in-law"
+      },
+      {
+        "id": "uthman",
+        "name": "Uthman ibn Affan",
+        "arabicName": "عثمان بن عفان",
+        "title": "Dhun-Nurayn (Possessor of Two Lights)",
+        "period": "579-656 CE",
+        "description": "Third caliph of Islam, known for his modesty and generosity.",
+        "significance": "Compiled the standardized version of the Quran.",
+        "image": "https://images.unsplash.com/photo-1584286595398-a59511e0649f?auto=format&fit=crop&q=80&w=800",
+        "category": "companion",
+        "relationship": "Third Caliph, Son-in-law"
+      },
+      {
+        "id": "ali",
+        "name": "Ali ibn Abi Talib",
+        "arabicName": "علي بن أبي طالب",
+        "title": "Asadullah (Lion of Allah)",
+        "period": "601-661 CE",
+        "description": "Fourth caliph of Islam, cousin and son-in-law of Prophet Muhammad ﷺ.",
+        "significance": "Known for his knowledge, bravery, and justice.",
+        "image": "https://images.unsplash.com/photo-1590076215667-875d4ef2d7de?auto=format&fit=crop&q=80&w=800",
+        "category": "companion",
+        "relationship": "Fourth Caliph, Cousin, Son-in-law"
+      }
+    ],
+    "scholars": [
+      {
+        "id": "abu-hanifa",
+        "name": "Abu Hanifa",
+        "arabicName": "أبو حنيفة النعمان",
+        "title": "Al-Imam Al-A'zam (The Great Imam)",
+        "period": "699-767 CE",
+        "description": "Founder of the Hanafi school of Islamic jurisprudence.",
+        "significance": "Developed systematic legal reasoning in Islamic law.",
+        "image": "https://images.unsplash.com/photo-1583482183021-daa0eda21b62?auto=format&fit=crop&q=80&w=800",
+        "category": "scholar",
+        "madhab": "Hanafi"
+      },
+      {
+        "id": "malik",
+        "name": "Malik ibn Anas",
+        "arabicName": "مالك بن أنس",
+        "title": "Imam Dar al-Hijrah",
+        "period": "711-795 CE",
+        "description": "Founder of the Maliki school of Islamic jurisprudence.",
+        "significance": "Compiled Al-Muwatta, one of the earliest hadith collections.",
+        "image": "https://images.unsplash.com/photo-1584286595398-a59511e0649f?auto=format&fit=crop&q=80&w=800",
+        "category": "scholar",
+        "madhab": "Maliki"
+      },
+      {
+        "id": "shafii",
+        "name": "Al-Shafi'i",
+        "arabicName": "محمد بن إدريس الشافعي",
+        "title": "Nasir al-Hadith (Defender of Hadith)",
+        "period": "767-820 CE",
+        "description": "Founder of the Shafi'i school of Islamic jurisprudence.",
+        "significance": "Developed the science of Islamic legal theory (Usul al-Fiqh).",
+        "image": "https://images.unsplash.com/photo-1591456983933-0c126b90ffd2?auto=format&fit=crop&q=80&w=800",
+        "category": "scholar",
+        "madhab": "Shafi'i"
+      },
+      {
+        "id": "ahmad",
+        "name": "Ahmad ibn Hanbal",
+        "arabicName": "أحمد بن حنبل",
+        "title": "Imam Ahl al-Sunnah",
+        "period": "780-855 CE",
+        "description": "Founder of the Hanbali school of Islamic jurisprudence.",
+        "significance": "Compiled the Musnad Ahmad, a major hadith collection.",
+        "image": "https://images.unsplash.com/photo-1590076215667-875d4ef2d7de?auto=format&fit=crop&q=80&w=800",
+        "category": "scholar",
+        "madhab": "Hanbali"
+      }
+    ]
+  }
+}
